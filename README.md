@@ -26,6 +26,6 @@ Boot分区由完整Boot.py实现
 
 开源许可：
 
-本项目遵循MIT协议
+本项目已遵循MIT协议
 
-详情请见：LICENSE.txt
+详情请见：[LICENSE.txt](https://raw.githubusercontent.com/wuu0417/YoujiangOS/refs/heads/main/LICENSE.txt)
