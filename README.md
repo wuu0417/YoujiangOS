@@ -29,3 +29,11 @@ Boot分区由完整Boot.py实现
 本项目已遵循MIT协议
 
 详情请见：[LICENSE.txt](https://raw.githubusercontent.com/wuu0417/YoujiangOS/refs/heads/main/LICENSE.txt)
+
+---
+
+关于Release：
+
+仅记录原型机更新，不代表本项目进度
+
+本项目进度以项目自身更新为准
